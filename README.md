@@ -78,4 +78,4 @@ Izan Villalba Corzo - https://github.com/izillanv
 
 Paul Alejandro Tamayo Mestanza - https://github.com/tamayonesa
 
-Wuke Zhang - 
+Wuke Zhang - https://github.com/oOmyLoveOo
