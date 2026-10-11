@@ -74,6 +74,8 @@ https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/
 
 <br>
 
-Izan Villalba Corzo -
-Paul Alejandro Tamayo Mestanza -
+Izan Villalba Corzo - https://github.com/izillanv
+
+Paul Alejandro Tamayo Mestanza - https://github.com/tamayonesa
+
 Wuke Zhang - 
